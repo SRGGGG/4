@@ -1,1 +1,26 @@
+body {
+    font-family: sans-serif;}
+ 
+ .p  {
+     font-size: 20px;
+     color: blueviolet;
+     padding: 30px;
+ }
 
+h1{
+    text-align: center;
+    padding: 60px;
+}
+
+.p2 {
+    border-bottom: solid rgb(202, 28, 28);
+    border-top: solid green;
+}
+
+ul{
+     list-style: url("/uploads/2021/01/%D0%BD%D0%BE%D1%82%D0%B0_0_1610638133.svg")
+}
+
+h2{
+    color: coral;
+}
